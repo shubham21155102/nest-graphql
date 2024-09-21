@@ -1,0 +1,1 @@
+yarn add @nestjs/graphql @nestjs/apollo @apollo/server graphql
